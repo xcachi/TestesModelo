@@ -36,4 +36,5 @@ bindsym $mod+d exec dmenu_run
 # installed.
 # bindsym $mod+d exec --no-startup-id i3-dmenu-desktop
 
-# change foc
+# change focus
+bindsy
