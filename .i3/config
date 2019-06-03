@@ -38,4 +38,4 @@ bindsym $mod+d exec dmenu_run
 
 # change focus
 bindsym $mod+j focus left
-bindsym $mod+
+bindsym $mod+k foc
