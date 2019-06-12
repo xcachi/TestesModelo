@@ -42,4 +42,5 @@ bindsym $mod+k focus down
 bindsym $mod+l focus up
 bindsym $mod+semicolon focus right
 
-# alternatively, you can use the cursor ke
+# alternatively, you can use the cursor keys:
+bi
