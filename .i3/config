@@ -44,4 +44,4 @@ bindsym $mod+semicolon focus right
 
 # alternatively, you can use the cursor keys:
 bindsym $mod+Left focus left
-bindsym $mod+Down foc
+bindsym $mod+Down focus 
