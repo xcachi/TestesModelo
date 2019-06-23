@@ -46,4 +46,4 @@ bindsym $mod+semicolon focus right
 bindsym $mod+Left focus left
 bindsym $mod+Down focus down
 bindsym $mod+Up focus up
-bindsym $mod+R
+bindsym $mod+Right 
