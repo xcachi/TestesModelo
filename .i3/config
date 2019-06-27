@@ -49,3 +49,4 @@ bindsym $mod+Up focus up
 bindsym $mod+Right focus right
 
 # move focused window
+bind
