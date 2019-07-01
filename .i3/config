@@ -49,4 +49,5 @@ bindsym $mod+Up focus up
 bindsym $mod+Right focus right
 
 # move focused window
-bindsym $mod+Shift+j mo
+bindsym $mod+Shift+j move left
+b
