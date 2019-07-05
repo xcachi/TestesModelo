@@ -51,4 +51,5 @@ bindsym $mod+Right focus right
 # move focused window
 bindsym $mod+Shift+j move left
 bindsym $mod+Shift+k move down
-bindsym $mod+Shift+l move u
+bindsym $mod+Shift+l move up
+bind
