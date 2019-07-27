@@ -54,4 +54,5 @@ bindsym $mod+Shift+k move down
 bindsym $mod+Shift+l move up
 bindsym $mod+Shift+semicolon move right
 
-# alternatively, you can use the cursor keys
+# alternatively, you can use the cursor keys:
+bi
