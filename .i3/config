@@ -60,4 +60,5 @@ bindsym $mod+Shift+Down move down
 bindsym $mod+Shift+Up move up
 bindsym $mod+Shift+Right move right
 
-# split in horizontal orien
+# split in horizontal orientation
+bind
