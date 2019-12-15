@@ -65,3 +65,5 @@ bindsym $mod+h split h
 
 # split in vertical orientation
 bindsym $mod+v split v
+
+# 
