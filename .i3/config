@@ -66,4 +66,4 @@ bindsym $mod+h split h
 # split in vertical orientation
 bindsym $mod+v split v
 
-# enter fullscreen mode f
+# enter fullscreen mode for the f
