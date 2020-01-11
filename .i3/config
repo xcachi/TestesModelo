@@ -67,4 +67,4 @@ bindsym $mod+h split h
 bindsym $mod+v split v
 
 # enter fullscreen mode for the focused container
-binds
+bindsym $
