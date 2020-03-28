@@ -75,4 +75,4 @@ bindsym $mod+w layout tabbed
 bindsym $mod+e layout toggle split
 
 # toggle tiling / floating
-bindsym $mod+Shift+
+bindsym $mod+Shift+space 
