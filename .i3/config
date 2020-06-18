@@ -88,4 +88,4 @@ bindsym $mod+a focus parent
 
 # switch to workspace
 bindsym $mod+1 workspace 1
-bindsym 
+bindsym $mod
