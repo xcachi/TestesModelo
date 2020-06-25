@@ -90,4 +90,5 @@ bindsym $mod+a focus parent
 bindsym $mod+1 workspace 1
 bindsym $mod+2 workspace 2
 bindsym $mod+3 workspace 3
-bindsym $mod+4 workspac
+bindsym $mod+4 workspace 4
+b
