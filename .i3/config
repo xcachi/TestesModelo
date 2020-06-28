@@ -91,4 +91,5 @@ bindsym $mod+1 workspace 1
 bindsym $mod+2 workspace 2
 bindsym $mod+3 workspace 3
 bindsym $mod+4 workspace 4
-bindsym $mod+5 workspa
+bindsym $mod+5 workspace 5
+bi
