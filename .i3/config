@@ -99,4 +99,4 @@ bindsym $mod+9 workspace 9
 bindsym $mod+0 workspace 10
 
 # move focused container to workspace
-bindsym $mod+S
+bindsym $mod+Shift
