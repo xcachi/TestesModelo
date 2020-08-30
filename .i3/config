@@ -100,4 +100,4 @@ bindsym $mod+0 workspace 10
 
 # move focused container to workspace
 bindsym $mod+Shift+1 move container to workspace 1
-binds
+bindsym $mod+Shi
