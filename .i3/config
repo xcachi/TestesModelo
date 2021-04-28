@@ -122,4 +122,5 @@ mode "resize" {
         # These bindings trigger as soon as you enter the resize mode
 
         # Pressing left will shrink the window’s width.
-        # Pressing right will grow the window’s wi
+        # Pressing right will grow the window’s width.
+ 
