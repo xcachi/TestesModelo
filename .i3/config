@@ -131,4 +131,5 @@ mode "resize" {
         bindsym semicolon resize grow width 10 px or 10 ppt
 
         # same bindings, but for the arrow keys
-        bindsym Left resize shrink width 10 px or 10 p
+        bindsym Left resize shrink width 10 px or 10 ppt
+      
