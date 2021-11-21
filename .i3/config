@@ -141,4 +141,4 @@ mode "resize" {
         bindsym Escape mode "default"
 }
 
-bindsy
+bindsym $mod+r 
