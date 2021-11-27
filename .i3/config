@@ -143,4 +143,4 @@ mode "resize" {
 
 bindsym $mod+r mode "resize"
 
-#
+# St
