@@ -143,4 +143,4 @@ mode "resize" {
 
 bindsym $mod+r mode "resize"
 
-# Start i3bar to display a workspace bar 
+# Start i3bar to display a workspace bar (plu
