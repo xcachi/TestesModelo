@@ -149,4 +149,5 @@ bar {
         status_command i3status
 }
 
-# Lock Desk
+# Lock Desktop
+bindsym 
