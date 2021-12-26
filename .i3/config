@@ -150,4 +150,4 @@ bar {
 }
 
 # Lock Desktop
-bindsym 
+bindsym $mod+
