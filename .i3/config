@@ -150,4 +150,4 @@ bar {
 }
 
 # Lock Desktop
-bindsym $mod+Shift+ t ex
+bindsym $mod+Shift+ t exec i3lock -c
