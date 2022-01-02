@@ -152,4 +152,4 @@ bar {
 # Lock Desktop
 bindsym $mod+Shift+ t exec i3lock -c 000000
 
-# Pulse Audio 
+# Pulse Audio Control
