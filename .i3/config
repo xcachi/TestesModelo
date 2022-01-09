@@ -153,4 +153,4 @@ bar {
 bindsym $mod+Shift+ t exec i3lock -c 000000
 
 # Pulse Audio Controls
-bindsym $mod+backslash exec ami
+bindsym $mod+backslash exec amixer -
