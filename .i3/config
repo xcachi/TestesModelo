@@ -154,4 +154,4 @@ bindsym $mod+Shift+ t exec i3lock -c 000000
 
 # Pulse Audio Controls
 bindsym $mod+backslash exec amixer -D pulse sset Master unmute
-bindsym $mod+shift+backslash exec amixer 
+bindsym $mod+shift+backslash exec amixer -D pul
