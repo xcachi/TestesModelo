@@ -155,4 +155,4 @@ bindsym $mod+Shift+ t exec i3lock -c 000000
 # Pulse Audio Controls
 bindsym $mod+backslash exec amixer -D pulse sset Master unmute
 bindsym $mod+shift+backslash exec amixer -D pulse sset Master mute
-bindsym $mod+shift+period exec qdbus 
+bindsym $mod+shift+period exec qdbus org.mp
