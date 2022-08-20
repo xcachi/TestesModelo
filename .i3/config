@@ -159,4 +159,4 @@ bindsym $mod+shift+period exec qdbus org.mpris.MediaPlayer2.spotify /org/mpris/M
 bindsym $mod+Control+comma exec qdbus org.mpris.MediaPlayer2.spotify /org/mpris/MediaPlayer2 org.mpris.MediaPlayer2.Player.PlayPause
 bindsym $mod+shift+comma exec qdbus org.mpris.MediaPlayer2.spotify /org/mpris/MediaPlayer2 org.mpris.MediaPlayer2.Player.Previous
 
-bindsym $mod+comma exec amixer -D pulse ss
+bindsym $mod+comma exec amixer -D pulse sset Ma
