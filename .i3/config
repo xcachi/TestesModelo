@@ -160,4 +160,4 @@ bindsym $mod+Control+comma exec qdbus org.mpris.MediaPlayer2.spotify /org/mpris/
 bindsym $mod+shift+comma exec qdbus org.mpris.MediaPlayer2.spotify /org/mpris/MediaPlayer2 org.mpris.MediaPlayer2.Player.Previous
 
 bindsym $mod+comma exec amixer -D pulse sset Master 5%- 
-bindsym $mod+period exec ami
+bindsym $mod+period exec amixer -
