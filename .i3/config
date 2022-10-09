@@ -162,4 +162,4 @@ bindsym $mod+shift+comma exec qdbus org.mpris.MediaPlayer2.spotify /org/mpris/Me
 bindsym $mod+comma exec amixer -D pulse sset Master 5%- 
 bindsym $mod+period exec amixer -D pulse sset Master 5%+
 
-exec --no-startup-id xrandr --output HDMI-0 --p
+exec --no-startup-id xrandr --output HDMI-0 --primary
