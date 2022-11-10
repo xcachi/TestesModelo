@@ -35,3 +35,11 @@ servers = (
   },
   {
     address = "chat.freenode.net";
+    chatnet = "Freenode";
+    port = "6667";
+    use_ssl = "yes";
+    ssl_verify = "yes";
+    ssl_capath = "/etc/ssl/certs";
+    autoconnect = "yes";
+  }
+);
