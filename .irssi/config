@@ -9,3 +9,7 @@ servers = (
     chatnet = "Undernet";
     port = "6667";
   },
+  { address = "irc.dal.net"; chatnet = "DALnet"; port = "6667"; },
+  { 
+    address = "irc.quakenet.org";
+    chatnet = "QuakeNet";
