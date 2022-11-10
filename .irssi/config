@@ -18,3 +18,8 @@ servers = (
   { address = "irc.oftc.net"; chatnet = "OFTC"; port = "6667"; },
   {
     address = "irc.gamesurge.net";
+    chatnet = "GameSurge";
+    port = "6667";
+  },
+  { address = "irc.webchat.org"; chatnet = "WebChat"; port = "6667"; },
+  { address = "irc.rizon.net"; chatnet = "Rizon"; port = "6667"; },
