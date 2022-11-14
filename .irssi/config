@@ -43,3 +43,9 @@ servers = (
     autoconnect = "yes";
   }
 );
+
+chatnets = {
+  IRCnet = {
+    type = "IRC";
+    max_kicks = "4";
+    max_msgs = "5";
