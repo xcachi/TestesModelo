@@ -64,3 +64,6 @@ chatnets = {
     max_msgs = "3";
     max_whois = "30";
   };
+  DALnet = {
+    type = "IRC";
+    max_kicks = "4";
