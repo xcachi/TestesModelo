@@ -67,3 +67,7 @@ chatnets = {
   DALnet = {
     type = "IRC";
     max_kicks = "4";
+    max_msgs = "3";
+    max_whois = "30";
+  };
+  QuakeNet = {
