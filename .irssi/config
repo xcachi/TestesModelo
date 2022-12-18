@@ -114,3 +114,8 @@ chatnets = {
     autosendcmd = "/msg nickserv identify PASSWORD;wait 2000";
   };
 };
+
+channels = (
+  { name = "#irssi"; chatnet = "ircnet"; autojoin = "No"; },
+  { name = "silc"; chatnet = "silc"; autojoin = "No"; },
+  {
