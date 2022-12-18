@@ -107,3 +107,10 @@ chatnets = {
     max_whois = "30";
   };
   SILC = { type = "SILC"; };
+  Ubuntu = { type = "IRC"; };
+  Freenode = {
+    type = "IRC";
+    nick = "USERNAME";
+    autosendcmd = "/msg nickserv identify PASSWORD;wait 2000";
+  };
+};
