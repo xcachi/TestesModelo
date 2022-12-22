@@ -119,3 +119,9 @@ channels = (
   { name = "#irssi"; chatnet = "ircnet"; autojoin = "No"; },
   { name = "silc"; chatnet = "silc"; autojoin = "No"; },
   {
+    name = "#python";
+    chatnet = "freenode";
+    wait = "2000";
+    autojoin = "no";
+  }
+);
