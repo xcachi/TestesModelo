@@ -183,3 +183,6 @@ statusbar = {
   # but {sb $T} is printed only if $T isn't empty.
 
   items = {
+    # start/end text in statusbars
+    barstart = "{sbstart}";
+    barend = "{sbend}";
