@@ -181,3 +181,5 @@ statusbar = {
   # when using {templates}, the template is shown only if it's argument isn't
   # empty unless no argument is given. for example {sb} is printed always,
   # but {sb $T} is printed only if $T isn't empty.
+
+  items = {
