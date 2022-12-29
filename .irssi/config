@@ -221,3 +221,8 @@ statusbar = {
       # window, root
       type = "window";
       # top, bottom
+      placement = "bottom";
+      # number
+      position = "1";
+      # active, inactive, always
+      visible = "active";
