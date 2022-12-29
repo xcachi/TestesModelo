@@ -215,3 +215,9 @@ statusbar = {
   default = {
     # the "default statusbar" to be displayed at the bottom of the window.
     # contains all the normal items.
+    window = {
+      disabled = "no";
+
+      # window, root
+      type = "window";
+      # top, bottom
