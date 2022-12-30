@@ -226,3 +226,8 @@ statusbar = {
       position = "1";
       # active, inactive, always
       visible = "active";
+
+      # list of items in statusbar in the display order
+      items = {
+        barstart = { priority = "100"; };
+        time = { };
