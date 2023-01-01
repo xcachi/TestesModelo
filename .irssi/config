@@ -252,3 +252,5 @@ statusbar = {
         window = { };
         window_empty = { };
         more = { priority = "-1"; alignment = "right"; };
+        barend = { priority = "100"; alignment = "right"; };
+      };
