@@ -263,3 +263,6 @@ statusbar = {
       placement = "bottom";
       # we want to be at the bottom always
       position = "100";
+      visible = "always";
+      items = {
+        prompt = { priority = "-1"; };
