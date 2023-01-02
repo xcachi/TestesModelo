@@ -254,3 +254,6 @@ statusbar = {
         more = { priority = "-1"; alignment = "right"; };
         barend = { priority = "100"; alignment = "right"; };
       };
+    };
+
+    # we treat input line as yet another statusbar :) It's possible to
