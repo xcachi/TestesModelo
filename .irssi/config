@@ -266,3 +266,8 @@ statusbar = {
       visible = "always";
       items = {
         prompt = { priority = "-1"; };
+        prompt_empty = { priority = "-1"; };
+        # treated specially, this is the real input line.
+        input = { priority = "10"; };
+      };
+    };
