@@ -271,3 +271,10 @@ statusbar = {
         input = { priority = "10"; };
       };
     };
+
+    # topicbar
+    topic = {
+      type = "root";
+      placement = "top";
+      position = "1";
+      visible = "always";
