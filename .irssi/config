@@ -286,3 +286,11 @@ statusbar = {
       };
     };
   };
+};
+settings = {
+  core = { real_name = ""; user_name = ""; nick = ""; };
+  "fe-text" = { actlist_sort = "refnum"; };
+  "fe-common/core" = { theme = "TemporalBeing "; autolog = "yes"; };
+};
+ignores = (
+  { mask = "JOINS"; level = "PARTS QUITS"; },
