@@ -5,3 +5,7 @@
 # old data so keep backups :)
 
 # TEMPLATES:
+
+# The real text formats that irssi uses are the ones you can find with
+# /FORMAT command. Back in the old days all the colors and texts were mixed
+# up in those formats, and it was really hard to change the colors since you
