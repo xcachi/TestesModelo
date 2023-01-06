@@ -294,3 +294,6 @@ settings = {
 };
 ignores = (
   { mask = "JOINS"; level = "PARTS QUITS"; },
+  { level = "JOINS PARTS QUITS"; }
+);
+logs = { };
