@@ -9,3 +9,10 @@
 # The real text formats that irssi uses are the ones you can find with
 # /FORMAT command. Back in the old days all the colors and texts were mixed
 # up in those formats, and it was really hard to change the colors since you
+# might have had to change them in tens of different places. So, then came
+# this templating system.
+
+# Now the /FORMATs don't have any colors in them, and they also have very
+# little other styling. Most of the stuff you need to change is in this
+# theme file. If you can't change something here, you can always go back
+# to change the /FORMATs directly, they're also saved in these .theme files.
