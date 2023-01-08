@@ -16,3 +16,9 @@
 # little other styling. Most of the stuff you need to change is in this
 # theme file. If you can't change something here, you can always go back
 # to change the /FORMATs directly, they're also saved in these .theme files.
+
+# So .. the templates. They're those {blahblah} parts you see all over the
+# /FORMATs and here. Their usage is simply {name parameter1 parameter2}.
+# When irssi sees this kind of text, it goes to find "name" from abstracts
+# block below and sets "parameter1" into $0 and "parameter2" into $1 (you
+# can have more parameters of course). Templates can have subtemplates.
