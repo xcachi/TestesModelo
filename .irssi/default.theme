@@ -22,3 +22,7 @@
 # When irssi sees this kind of text, it goes to find "name" from abstracts
 # block below and sets "parameter1" into $0 and "parameter2" into $1 (you
 # can have more parameters of course). Templates can have subtemplates.
+# Here's a small example:
+#   /FORMAT format hello {colorify {underline world}}
+#   abstracts = { colorify = "%G$0-%n"; underline = "%U$0-%U"; }
+# When irssi expands the templates in "format", the final string would be:
