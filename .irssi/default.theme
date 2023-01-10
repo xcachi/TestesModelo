@@ -32,3 +32,7 @@
 # $0- means all the parameters. With {underline hello world} you'd really
 # want to underline both of the words, not just the hello (and world would
 # actually be removed entirely).
+
+# COLORS:
+
+# You can find definitions for the color format codes in docs/formats.txt.
