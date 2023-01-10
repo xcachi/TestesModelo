@@ -26,3 +26,9 @@
 #   /FORMAT format hello {colorify {underline world}}
 #   abstracts = { colorify = "%G$0-%n"; underline = "%U$0-%U"; }
 # When irssi expands the templates in "format", the final string would be:
+#   hello %G%Uworld%U%n
+# ie. underlined bright green "world" text.
+# and why "$0-", why not "$0"? $0 would only mean the first parameter,
+# $0- means all the parameters. With {underline hello world} you'd really
+# want to underline both of the words, not just the hello (and world would
+# actually be removed entirely).
