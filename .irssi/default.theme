@@ -36,3 +36,9 @@
 # COLORS:
 
 # You can find definitions for the color format codes in docs/formats.txt.
+
+# There's one difference here though. %n format. Normally it means the
+# default color of the terminal (white mostly), but here it means the
+# "reset color back to the one it was in higher template". For example
+# if there was /FORMAT test %g{foo}bar, and foo = "%Y$0%n", irssi would
+# print yellow "foo" (as set with %Y) but "bar" would be green, which was
