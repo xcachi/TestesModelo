@@ -42,3 +42,8 @@
 # "reset color back to the one it was in higher template". For example
 # if there was /FORMAT test %g{foo}bar, and foo = "%Y$0%n", irssi would
 # print yellow "foo" (as set with %Y) but "bar" would be green, which was
+# set at the beginning before the {foo} template. If there wasn't the %g
+# at start, the normal behaviour of %n would occur. If you _really_ want
+# to use the terminal's default color, use %N.
+
+#############################################################################
