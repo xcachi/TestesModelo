@@ -62,3 +62,12 @@ abstracts = {
   ##
   ## generic
   ##
+
+  # text to insert at the beginning of each non-message line
+  line_start = "%B-%n!%B-%n ";
+
+  # timestamp styling, nothing by default
+  timestamp = "$*";
+
+  # any kind of text that needs hilighting, default is to bold
+  hilight = "%_$*%_";
