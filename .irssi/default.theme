@@ -86,3 +86,12 @@ abstracts = {
 
   # server name is printed
   server = "%_$*%_";
+
+  # some kind of comment is printed
+  comment = "[$*]";
+
+  # reason for something is printed (part, quit, kick, ..)
+  reason = "{comment $*}";
+
+  # mode change is printed ([+o nick])
+  mode = "{comment $*}";
