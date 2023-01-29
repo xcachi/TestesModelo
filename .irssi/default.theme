@@ -95,3 +95,6 @@ abstracts = {
 
   # mode change is printed ([+o nick])
   mode = "{comment $*}";
+
+  ##
+  ## channel specific messages
