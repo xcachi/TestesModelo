@@ -98,3 +98,10 @@ abstracts = {
 
   ##
   ## channel specific messages
+  ##
+
+  # highlighted nick/host is printed (joins)
+  channick_hilight = "%C$*%n";
+  chanhost_hilight = "{nickhost %c$*%n}";
+
+  # nick/host is printed (parts, quits, etc.)
