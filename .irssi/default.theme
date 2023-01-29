@@ -105,3 +105,8 @@ abstracts = {
   chanhost_hilight = "{nickhost %c$*%n}";
 
   # nick/host is printed (parts, quits, etc.)
+  channick = "%c$*%n";
+  chanhost = "{nickhost $*}";
+
+  # highlighted channel name is printed
+  channelhilight = "%c$*%n";
