@@ -110,3 +110,10 @@ abstracts = {
 
   # highlighted channel name is printed
   channelhilight = "%c$*%n";
+
+  # ban/ban exception/invite list mask is printed
+  ban = "%c$*%n";
+
+  ##
+  ## messages
+  ##
