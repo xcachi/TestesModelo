@@ -117,3 +117,6 @@ abstracts = {
   ##
   ## messages
   ##
+
+  # the basic styling of how to print message, $0 = nick mode, $1 = nick
+  msgnick = "%K<%n$0$1-%K>%n %|";
