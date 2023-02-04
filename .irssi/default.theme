@@ -165,3 +165,10 @@ abstracts = {
   # own private message in query
   ownprivmsgnick = "{msgnick  $*}";
   ownprivnick = "%_$*%n";
+
+  # private message in query
+  privmsgnick = "{msgnick  %R$*%n}";
+
+  ##
+  ## Actions (/ME stuff)
+  ##
