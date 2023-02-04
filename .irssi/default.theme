@@ -155,3 +155,13 @@ abstracts = {
 
   # channel name is printed with message
   msgchannel = "%K:%c$*%n";
+
+  # private message, $0 = nick, $1 = host
+  privmsg = "[%R$0%K(%r$1-%K)%n] ";
+
+  # private message from you, $0 = "msg", $1 = target nick
+  ownprivmsg = "[%r$0%K(%R$1-%K)%n] ";
+
+  # own private message in query
+  ownprivmsgnick = "{msgnick  $*}";
+  ownprivnick = "%_$*%n";
