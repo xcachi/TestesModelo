@@ -172,3 +172,11 @@ abstracts = {
   ##
   ## Actions (/ME stuff)
   ##
+
+  # used internally by this theme
+  action_core = "%_ * $*%n";
+
+  # generic one that's used by most actions
+  action = "{action_core $*} ";
+
+  # own action, both private/public
