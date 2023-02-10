@@ -191,3 +191,8 @@ abstracts = {
 
   # public action sent by others
   pubaction = "{action $*}";
+
+
+  ##
+  ## other IRC events
+  ##
