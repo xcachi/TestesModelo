@@ -186,3 +186,8 @@ abstracts = {
   ownaction_target = "{action_core $0}%K:%c$1%n ";
 
   # private action sent by others
+  pvtaction = "%_ (*) $*%n ";
+  pvtaction_query = "{action $*}";
+
+  # public action sent by others
+  pubaction = "{action $*}";
