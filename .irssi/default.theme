@@ -180,3 +180,9 @@ abstracts = {
   action = "{action_core $*} ";
 
   # own action, both private/public
+  ownaction = "{action $*}";
+
+  # own action with target, both private/public
+  ownaction_target = "{action_core $0}%K:%c$1%n ";
+
+  # private action sent by others
