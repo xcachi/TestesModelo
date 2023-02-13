@@ -196,3 +196,6 @@ abstracts = {
   ##
   ## other IRC events
   ##
+
+  # whois
+  whois = "%# $[8]0 : $1-";
