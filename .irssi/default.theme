@@ -205,3 +205,8 @@ abstracts = {
   notice = "%K-%M$*%K-%n ";
   pubnotice_channel = "%K:%m$*";
   pvtnotice_host = "%K(%m$*%K)";
+  servernotice = "%g!$*%n ";
+
+  # CTCPs
+  ownctcp = "[%r$0%K(%R$1-%K)] ";
+  ctcp = "%g$*%n";
