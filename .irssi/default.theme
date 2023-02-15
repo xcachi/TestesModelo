@@ -226,3 +226,7 @@ abstracts = {
   names_nick_op = "{names_nick $*}";
   names_nick_halfop = "{names_nick $*}";
   names_nick_voice = "{names_nick $*}";
+  names_users = "[%g$*%n]";
+  names_channel = "%G$*%n";
+
+  # DCC
