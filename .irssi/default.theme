@@ -230,3 +230,9 @@ abstracts = {
   names_channel = "%G$*%n";
 
   # DCC
+  dcc = "%g$*%n";
+  dccfile = "%_$*%_";
+
+  # DCC chat, own msg/action
+  dccownmsg = "[%r$0%K($1-%K)%n] ";
+  dccownnick = "%R$*%n";
