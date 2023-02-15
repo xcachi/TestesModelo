@@ -210,3 +210,8 @@ abstracts = {
   # CTCPs
   ownctcp = "[%r$0%K(%R$1-%K)] ";
   ctcp = "%g$*%n";
+
+  # wallops
+  wallop = "%_$*%n: ";
+  wallop_nick = "%n$*";
+  wallop_action = "%_ * $*%n ";
