@@ -244,3 +244,9 @@ abstracts = {
   dccmsg = "[%G$1-%K(%g$0%K)%n] ";
   dccquerynick = "%G$*%n";
   dccaction = "%_ (*dcc*) $*%n %|";
+
+  ##
+  ## statusbar
+  ##
+
+  # default background for all statusbars. You can also give
