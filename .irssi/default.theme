@@ -239,3 +239,8 @@ abstracts = {
   dccownquerynick = "%_$*%n";
   dccownaction = "{action $*}";
   dccownaction_target = "{action_core $0}%K:%c$1%n ";
+
+  # DCC chat, others
+  dccmsg = "[%G$1-%K(%g$0%K)%n] ";
+  dccquerynick = "%G$*%n";
+  dccaction = "%_ (*dcc*) $*%n %|";
