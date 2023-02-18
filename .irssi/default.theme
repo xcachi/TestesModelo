@@ -267,3 +267,11 @@ abstracts = {
   sbstart = "";
   # text at the end of statusbars. Use space so that it's never
   # used for anything.
+  sbend = " ";
+
+  topicsbstart = "{sbstart $*}";
+  topicsbend = "{sbend $*}";
+
+  prompt = "[$*] ";
+
+  sb = " %c[%n$*%c]%n";
