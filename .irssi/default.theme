@@ -258,3 +258,12 @@ abstracts = {
   # background for prompt / input line
   sb_prompt_bg = "%n";
   # background for info statusbar
+  sb_info_bg = "%8";
+  # background for topicbar (same default)
+  #sb_topic_bg = "%4";
+
+  # text at the beginning of statusbars. sb-item already puts
+  # space there,so we don't use anything by default.
+  sbstart = "";
+  # text at the end of statusbars. Use space so that it's never
+  # used for anything.
